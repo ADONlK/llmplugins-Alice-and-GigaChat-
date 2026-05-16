@@ -6,7 +6,7 @@
 
 - аккаунт Yandex Cloud
 - API-ключ
-- folder_id
+- folder_id (в коде вводите свой folder_id вместо моего)
 
 ### GigaChat
 
@@ -45,8 +45,9 @@ llm keys set alice
 ```bash
 llm keys set gigachat
 ```
+Вводим API-ключ
 
-# Использование
+# Тестирование
 
 ## Alice
 
@@ -60,6 +61,5 @@ llm -m alice "Привет"
 llm -m gigachat "Привет"
 ```
 
-
-
+Все готово) с помощью двух последних команд вы можете переключаться между Алисой и GigaChat
 
