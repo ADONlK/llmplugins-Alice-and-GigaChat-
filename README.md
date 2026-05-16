@@ -4,13 +4,13 @@
 
 ### Alice (YandexGPT)
 
-аккаунт Yandex Cloud
-API-ключ
-folder_id
+-аккаунт Yandex Cloud
+-API-ключ
+-folder_id
 
 ### GigaChat
 
-API-ключ GigaChat
+-API-ключ GigaChat
 
 
 # Установливаем библиотеку llm
