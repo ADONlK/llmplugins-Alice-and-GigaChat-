@@ -31,13 +31,14 @@ cd ../llm_gigachat
 pip install -e .
 ```
 
-# Добавление ключей
+# Добавляем ключи
 
 ## Alice
 
 ```bash
 llm keys set alice
-```
+``` 
+Вводим API-ключ
 
 ## GigaChat
 
