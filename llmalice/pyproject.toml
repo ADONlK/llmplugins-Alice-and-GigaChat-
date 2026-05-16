@@ -1,0 +1,7 @@
+[project]
+name = "llm-alice"
+version = "0.1"
+description = "LLM plugin for Yandex Alice (YandexGPT)"
+
+[project.entry-points.llm]
+alice = "llmalice"

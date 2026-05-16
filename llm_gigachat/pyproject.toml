@@ -1,0 +1,6 @@
+[project]
+name = "llm-gigachat"
+version = "0.1"
+
+[project.entry-points.llm]
+gigachat = "llm_gigachat"
